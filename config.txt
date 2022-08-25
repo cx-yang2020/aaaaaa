@@ -15,7 +15,7 @@
 "region": "石家庄市",
 "birthday1": {"name": "诺诺", "birthday": "2001-09-14"},
 "birthday2": {"name": "阿蛋", "birthday": "2000-04-20"},
-"love_date": "2020-12-04",
+"love_date": "2020-12-31",
 "note_ch": "",
 # 金句英文
 "note_en": ""
